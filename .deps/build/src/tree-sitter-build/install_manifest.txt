@@ -1,0 +1,3 @@
+/Users/ren-ty/Documents/neovim-source/.deps/usr/include/tree_sitter/api.h
+/Users/ren-ty/Documents/neovim-source/.deps/usr/include/tree_sitter/parser.h
+/Users/ren-ty/Documents/neovim-source/.deps/usr/lib/libtree-sitter.a

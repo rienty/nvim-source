@@ -1,0 +1,2 @@
+/Users/ren-ty/Documents/neovim-source/.deps/usr/lib/libunibilium.a
+/Users/ren-ty/Documents/neovim-source/.deps/usr/include/unibilium.h

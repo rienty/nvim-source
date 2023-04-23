@@ -1,0 +1,5 @@
+# ninja log v5
+1	1205	1682214666916333836	CMakeFiles/parser.dir/src/scanner.c.o	def098327cab4b73
+1	6511	1682214672297545189	CMakeFiles/parser.dir/src/parser.c.o	f22a4f767e8c9879
+6512	6581	1682214672374825810	vim.so	ea1dd2ac74cf6a28
+2	23	0	CMakeFiles/install.util	6380e0c3a84fd3f2

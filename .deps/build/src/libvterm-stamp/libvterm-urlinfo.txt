@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/opt/homebrew/Cellar/cmake/3.26.3/bin/cmake;-P;/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-stamp/download-libvterm.cmake;COMMAND;/opt/homebrew/Cellar/cmake/3.26.3/bin/cmake;-P;/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-stamp/verify-libvterm.cmake;COMMAND;/opt/homebrew/Cellar/cmake/3.26.3/bin/cmake;-P;/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-stamp/extract-libvterm.cmake
+source_dir=/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm
+work_dir=/Users/ren-ty/Documents/neovim-source/.deps/build/src
+url(s)=https://www.leonerd.org.uk/code/libvterm/libvterm-0.3.1.tar.gz
+hash=SHA256=25a8ad9c15485368dfd0a8a9dca1aec8fea5c27da3fa74ec518d5d3787f0c397
+no_extract=
+

@@ -1,0 +1,5 @@
+/Users/ren-ty/Documents/neovim-source/.deps/usr/lib/libluv.a
+/Users/ren-ty/Documents/neovim-source/.deps/usr/include/luv/luv.h
+/Users/ren-ty/Documents/neovim-source/.deps/usr/include/luv/util.h
+/Users/ren-ty/Documents/neovim-source/.deps/usr/include/luv/lhandle.h
+/Users/ren-ty/Documents/neovim-source/.deps/usr/include/luv/lreq.h

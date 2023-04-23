@@ -1,0 +1,1 @@
+/Users/ren-ty/Documents/neovim-source/.deps/usr/lib/nvim/parser/c.so

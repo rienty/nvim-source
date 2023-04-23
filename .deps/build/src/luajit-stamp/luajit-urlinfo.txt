@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/opt/homebrew/Cellar/cmake/3.26.3/bin/cmake;-P;/Users/ren-ty/Documents/neovim-source/.deps/build/src/luajit-stamp/download-luajit.cmake;COMMAND;/opt/homebrew/Cellar/cmake/3.26.3/bin/cmake;-P;/Users/ren-ty/Documents/neovim-source/.deps/build/src/luajit-stamp/verify-luajit.cmake;COMMAND;/opt/homebrew/Cellar/cmake/3.26.3/bin/cmake;-P;/Users/ren-ty/Documents/neovim-source/.deps/build/src/luajit-stamp/extract-luajit.cmake
+source_dir=/Users/ren-ty/Documents/neovim-source/.deps/build/src/luajit
+work_dir=/Users/ren-ty/Documents/neovim-source/.deps/build/src
+url(s)=https://github.com/LuaJIT/LuaJIT/archive/505e2c03de35e2718eef0d2d3660712e06dadf1f.tar.gz
+hash=SHA256=67c88399b901a22e9a236f4b77e6fe39af00f6b7144ce9dd6f51141d921f1076
+no_extract=
+

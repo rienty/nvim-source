@@ -1,0 +1,13 @@
+# Target labels
+ treesitter-lua
+# Source files and their labels
+/Users/ren-ty/Documents/neovim-source/.deps/CMakeFiles/treesitter-lua
+/Users/ren-ty/Documents/neovim-source/.deps/CMakeFiles/treesitter-lua.rule
+/Users/ren-ty/Documents/neovim-source/.deps/CMakeFiles/treesitter-lua-complete.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/treesitter-lua-stamp/treesitter-lua-build.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/treesitter-lua-stamp/treesitter-lua-configure.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/treesitter-lua-stamp/treesitter-lua-download.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/treesitter-lua-stamp/treesitter-lua-install.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/treesitter-lua-stamp/treesitter-lua-mkdir.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/treesitter-lua-stamp/treesitter-lua-patch.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/treesitter-lua-stamp/treesitter-lua-update.rule

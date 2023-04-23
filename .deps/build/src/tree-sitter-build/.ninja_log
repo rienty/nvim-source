@@ -1,0 +1,4 @@
+# ninja log v5
+1	3323	1682214693732391289	CMakeFiles/tree-sitter.dir/lib/src/lib.c.o	186916707e1b5185
+3324	3346	1682214693758040000	libtree-sitter.a	3c3b9f7f511326f5
+1	14	0	CMakeFiles/install.util	e4fccbefecc0ef61

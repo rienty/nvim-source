@@ -1,0 +1,13 @@
+# Target labels
+ libuv
+# Source files and their labels
+/Users/ren-ty/Documents/neovim-source/.deps/CMakeFiles/libuv
+/Users/ren-ty/Documents/neovim-source/.deps/CMakeFiles/libuv.rule
+/Users/ren-ty/Documents/neovim-source/.deps/CMakeFiles/libuv-complete.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libuv-stamp/libuv-build.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libuv-stamp/libuv-configure.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libuv-stamp/libuv-download.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libuv-stamp/libuv-install.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libuv-stamp/libuv-mkdir.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libuv-stamp/libuv-patch.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libuv-stamp/libuv-update.rule

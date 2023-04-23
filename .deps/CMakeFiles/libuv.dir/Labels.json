@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/ren-ty/Documents/neovim-source/.deps/CMakeFiles/libuv"
+		},
+		{
+			"file" : "/Users/ren-ty/Documents/neovim-source/.deps/CMakeFiles/libuv.rule"
+		},
+		{
+			"file" : "/Users/ren-ty/Documents/neovim-source/.deps/CMakeFiles/libuv-complete.rule"
+		},
+		{
+			"file" : "/Users/ren-ty/Documents/neovim-source/.deps/build/src/libuv-stamp/libuv-build.rule"
+		},
+		{
+			"file" : "/Users/ren-ty/Documents/neovim-source/.deps/build/src/libuv-stamp/libuv-configure.rule"
+		},
+		{
+			"file" : "/Users/ren-ty/Documents/neovim-source/.deps/build/src/libuv-stamp/libuv-download.rule"
+		},
+		{
+			"file" : "/Users/ren-ty/Documents/neovim-source/.deps/build/src/libuv-stamp/libuv-install.rule"
+		},
+		{
+			"file" : "/Users/ren-ty/Documents/neovim-source/.deps/build/src/libuv-stamp/libuv-mkdir.rule"
+		},
+		{
+			"file" : "/Users/ren-ty/Documents/neovim-source/.deps/build/src/libuv-stamp/libuv-patch.rule"
+		},
+		{
+			"file" : "/Users/ren-ty/Documents/neovim-source/.deps/build/src/libuv-stamp/libuv-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libuv"
+		],
+		"name" : "libuv"
+	}
+}

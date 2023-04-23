@@ -1,0 +1,4 @@
+# ninja log v5
+0	821	1682214686850885754	CMakeFiles/libluv_a.dir/src/luv.c.o	670f1dd2458b781b
+822	843	1682214686875216000	libluv.a	25246cac9869421f
+3	16	0	CMakeFiles/install.util	ee652cd234049af9

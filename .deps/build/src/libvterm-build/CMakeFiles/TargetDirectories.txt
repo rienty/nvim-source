@@ -1,0 +1,10 @@
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-build/CMakeFiles/vterm.dir
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-build/CMakeFiles/unterm.dir
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-build/CMakeFiles/vterm-ctrl.dir
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-build/CMakeFiles/vterm-dump.dir
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-build/CMakeFiles/edit_cache.dir
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-build/CMakeFiles/rebuild_cache.dir
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-build/CMakeFiles/list_install_components.dir
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-build/CMakeFiles/install.dir
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-build/CMakeFiles/install/local.dir
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-build/CMakeFiles/install/strip.dir

@@ -1,0 +1,13 @@
+# Target labels
+ msgpack
+# Source files and their labels
+/Users/ren-ty/Documents/neovim-source/.deps/CMakeFiles/msgpack
+/Users/ren-ty/Documents/neovim-source/.deps/CMakeFiles/msgpack.rule
+/Users/ren-ty/Documents/neovim-source/.deps/CMakeFiles/msgpack-complete.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/msgpack-stamp/msgpack-build.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/msgpack-stamp/msgpack-configure.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/msgpack-stamp/msgpack-download.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/msgpack-stamp/msgpack-install.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/msgpack-stamp/msgpack-mkdir.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/msgpack-stamp/msgpack-patch.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/msgpack-stamp/msgpack-update.rule

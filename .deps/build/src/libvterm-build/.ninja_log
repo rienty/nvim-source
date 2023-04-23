@@ -1,0 +1,18 @@
+# ninja log v5
+4	315	1682214666106170210	CMakeFiles/vterm.dir/src/mouse.c.o	409b483d8b46fe1
+16	321	1682214666100432508	CMakeFiles/vterm.dir/src/unicode.c.o	89f3720f19e55e86
+1	324	1682214666114378867	CMakeFiles/vterm.dir/src/encoding.c.o	2ea6ab7554ff8db8
+2	324	1682214666114719908	CMakeFiles/vterm.dir/src/keyboard.c.o	23206fd88c338fb2
+5	358	1682214666153077365	CMakeFiles/vterm.dir/src/parser.c.o	d71dace99d14e61d
+321	664	1682214666442526122	CMakeFiles/vterm-dump.dir/bin/vterm-dump.c.o	ae883d3d447b17a8
+19	890	1682214666646245641	CMakeFiles/vterm.dir/src/vterm.c.o	bbbe7291434c7ec7
+21	892	1682214666647541432	CMakeFiles/unterm.dir/bin/unterm.c.o	5574d9410d8a121
+7	1536	1682214667318071425	CMakeFiles/vterm.dir/src/pen.c.o	4acb114abaa7e305
+319	1555	1682214667280080759	CMakeFiles/vterm-ctrl.dir/bin/vterm-ctrl.c.o	b668cb8a54446411
+9	2581	1682214668374630900	CMakeFiles/vterm.dir/src/screen.c.o	6e85da87d12a4f23
+12	3139	1682214668932646729	CMakeFiles/vterm.dir/src/state.c.o	fd91f8c126fbf009
+3139	3193	1682214668992137000	libvterm.a	fbbb135470f20147
+3193	3266	1682214669062481583	unterm	a1170e9008e51f89
+3196	3266	1682214669063472665	vterm-dump	838ec79cfa8221e6
+3195	3266	1682214669063698706	vterm-ctrl	609e41053829489
+2	36	0	CMakeFiles/install.util	b81478a3ee4d3e3f

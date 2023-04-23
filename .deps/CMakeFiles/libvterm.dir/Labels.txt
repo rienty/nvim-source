@@ -1,0 +1,13 @@
+# Target labels
+ libvterm
+# Source files and their labels
+/Users/ren-ty/Documents/neovim-source/.deps/CMakeFiles/libvterm
+/Users/ren-ty/Documents/neovim-source/.deps/CMakeFiles/libvterm.rule
+/Users/ren-ty/Documents/neovim-source/.deps/CMakeFiles/libvterm-complete.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-stamp/libvterm-build.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-stamp/libvterm-configure.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-stamp/libvterm-download.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-stamp/libvterm-install.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-stamp/libvterm-mkdir.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-stamp/libvterm-patch.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-stamp/libvterm-update.rule

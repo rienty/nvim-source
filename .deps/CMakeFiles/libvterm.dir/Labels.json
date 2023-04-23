@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/ren-ty/Documents/neovim-source/.deps/CMakeFiles/libvterm"
+		},
+		{
+			"file" : "/Users/ren-ty/Documents/neovim-source/.deps/CMakeFiles/libvterm.rule"
+		},
+		{
+			"file" : "/Users/ren-ty/Documents/neovim-source/.deps/CMakeFiles/libvterm-complete.rule"
+		},
+		{
+			"file" : "/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-stamp/libvterm-build.rule"
+		},
+		{
+			"file" : "/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-stamp/libvterm-configure.rule"
+		},
+		{
+			"file" : "/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-stamp/libvterm-download.rule"
+		},
+		{
+			"file" : "/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-stamp/libvterm-install.rule"
+		},
+		{
+			"file" : "/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-stamp/libvterm-mkdir.rule"
+		},
+		{
+			"file" : "/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-stamp/libvterm-patch.rule"
+		},
+		{
+			"file" : "/Users/ren-ty/Documents/neovim-source/.deps/build/src/libvterm-stamp/libvterm-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libvterm"
+		],
+		"name" : "libvterm"
+	}
+}

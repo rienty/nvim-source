@@ -1,0 +1,7 @@
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/tree-sitter-build/CMakeFiles/tree-sitter.dir
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/tree-sitter-build/CMakeFiles/edit_cache.dir
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/tree-sitter-build/CMakeFiles/rebuild_cache.dir
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/tree-sitter-build/CMakeFiles/list_install_components.dir
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/tree-sitter-build/CMakeFiles/install.dir
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/tree-sitter-build/CMakeFiles/install/local.dir
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/tree-sitter-build/CMakeFiles/install/strip.dir

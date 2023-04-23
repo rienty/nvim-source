@@ -1,0 +1,21 @@
+# Target labels
+ luv-static
+# Source files and their labels
+/Users/ren-ty/Documents/neovim-source/.deps/CMakeFiles/luv-static
+/Users/ren-ty/Documents/neovim-source/.deps/CMakeFiles/luv-static.rule
+/Users/ren-ty/Documents/neovim-source/.deps/CMakeFiles/luv-static-complete.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/luv-static-stamp/luv-static-build.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/luv-static-stamp/luv-static-configure.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/luv-static-stamp/luv-static-download.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/luv-static-stamp/luv-static-install.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/luv-static-stamp/luv-static-mkdir.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/luv-static-stamp/luv-static-patch.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/luv-static-stamp/luv-static-update.rule
+/Users/ren-ty/Documents/neovim-source/.deps/CMakeFiles/lua-compat-5.3-complete.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-build.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-configure.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-download.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-install.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-mkdir.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-patch.rule
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/lua-compat-5.3-stamp/lua-compat-5.3-update.rule

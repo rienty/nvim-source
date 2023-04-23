@@ -1,0 +1,7 @@
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/unibilium-build/CMakeFiles/unibilium.dir
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/unibilium-build/CMakeFiles/edit_cache.dir
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/unibilium-build/CMakeFiles/rebuild_cache.dir
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/unibilium-build/CMakeFiles/list_install_components.dir
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/unibilium-build/CMakeFiles/install.dir
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/unibilium-build/CMakeFiles/install/local.dir
+/Users/ren-ty/Documents/neovim-source/.deps/build/src/unibilium-build/CMakeFiles/install/strip.dir

@@ -1,0 +1,6 @@
+# ninja log v5
+3	147	1682214672357139788	CMakeFiles/termkey.dir/driver-ti.c.o	9df2f1ed6b3389ad
+2	243	1682214672448515977	CMakeFiles/termkey.dir/driver-csi.c.o	ee1eaac196069b03
+2	351	1682214672562256265	CMakeFiles/termkey.dir/termkey.c.o	3ed5c9a2cdaa40ad
+351	384	1682214672597999000	libtermkey.a	cb909c9a4f5b1b0b
+2	21	0	CMakeFiles/install.util	d7df98441f19b092
